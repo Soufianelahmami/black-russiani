@@ -37,21 +37,21 @@
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"vungle", 
-"interstisial_network_choice":"vungle", 
-"reward_network_choice":"vungle",
+"banner_network_choice":"admob", 
+"interstisial_network_choice":"admob", 
+"reward_network_choice":"admob",
 "native_network_choice":"admob"
   
 
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/H4Z2Bsa.png"},
+  {"desc2":"The world of cocktails is a realm where creativity and craftsmanship intertwine, giving birth to unique and flavorful concoctions","photo2":"https://iili.io/H4Z2fzF.jpg"},
+  {"desc3":"Among the numerous libations that have stood the test of time, the Black Russian holds a special place","photo3":"https://iili.io/H4Z2Fb1.jpg"},
+  {"desc4":"This delightful blend of vodka and coffee liqueur has not only become a classic in mixology but has also gained popularity for its smooth and rich taste.","photo4":"https://iili.io/H4Z23OP.jpg"},
+  {"desc5":"Beyond its allure as a beverage, the Black Russian holds a fascinating history and cultural significance that adds depth to its identity","photo5":"https://iili.io/H4Z2qWg.webp"},
+  {"descd":" In this article, we will explore the origins, ingredients, variations, and cultural impact of the Black Russian cocktail.","photod":"https://iili.io/H4Z2nqJ.jpg"}
    ]
  
 }
